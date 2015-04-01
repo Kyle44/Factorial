@@ -1,6 +1,9 @@
 // Kyle Fritz
-// Lab2.cpp: Finds factorial of a number and the sum of all numbers from 0 to 
+// File: Lab2.cpp
+// Date Modified: 4/1/15
+// Description: Finds factorial of a number and the sum of all numbers from 0 to
 //   that number
+
 #include <iostream>
 using namespace std;
 
